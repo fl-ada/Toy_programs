@@ -10,6 +10,6 @@ The list of main practices are
 - `SQL`
   -[Business Case 1-order](https://github.com/fl-ada/orderlist/blob/master/analysis-sql.sql)
 - `python` programming
-- final year project `developing a library chatbot` [Report](***LINK***)
+- final year project `developing a library chatbot` [Report](/files/FYP_chatbot.pdf)
 
 Each project/program will have a brief instruction on `readme` for better organization.
