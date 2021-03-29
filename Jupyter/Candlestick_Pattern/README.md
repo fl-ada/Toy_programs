@@ -21,8 +21,10 @@
 - statistical libraries : qqplot, scipy stats, etc.
 - candlestick library : mplfinance candlestick_ohlc
 
-### Notebook available [here](https://github.com/fl-ada/Toy_programs/blob/master/Jupyter/Candlestick%20Pattern/STAT3609_project_group2.ipynb)
+### Notebook available [🔗Here](/Jupyter/Candlestick_Pattern/STAT3609_project_group2.ipynb)
 - extract OHLC data from csv daily 
 - detect candlestick patterns from OHLC data
 - Find bearish and bullish patterns for each market, in short term (5-day) and long term(250-day)
 - Test statistical significance and evaluate
+- [Report](/Jupyter/Candlestick_Pattern/Report_candlestick.pdf)
+- [Presentation](/Jupyter/Candlestick_Pattern/Presentation_candlestick.pdf)
