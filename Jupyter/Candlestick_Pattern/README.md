@@ -6,7 +6,7 @@
 
 ### Candlestick pattern
 - A candlestick shows open, high, low, and close (OHLC) price of certain period of time.
-![candlestick_chart.png](/Jupyter/Candlestick Pattern/images/candlestick_chart.png)
+![candlestick_chart.png](/Jupyter/Candlestick_Pattern/images/candlestick_chart.png)
 - A candlestick pattern can be either bearish(price drop) or bullish(price rise)
 - A candlestick pattern is determined by few consecutive candlesticks
 
