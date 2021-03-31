@@ -14,8 +14,5 @@ Select at least the customer_id if not specified.
 - `Q.7` explain the differences
 - `Q.8` sum of all positive card balance/negative
 - `Q.9` add 20 to nagative card balance, add 5 to positive card balance
-<<<<<<< HEAD
 - `Q.10` no. of cards owned by customer with max. no of cards that was deducted to negative balance in the same station within the last ten days
-=======
-- `Q.10` no. of cards owned by customer with max. no of cards that was deducted to negative balance in the same station within the last ten days
->>>>>>> 8ed7af260fff1391b92beab5b14cf39be51375e9
+
